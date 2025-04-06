@@ -1,4 +1,4 @@
-# 💻 **Hello, World! I'm [Your Name]** 👋
+# 💻 **Hello, World! I'm Yender Rodriguez** 👋
 
 ![Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+my+GitHub)
 
